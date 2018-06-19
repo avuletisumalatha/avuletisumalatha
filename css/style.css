@@ -1,0 +1,51 @@
+body{
+    margin:0px;
+    font-family: 'Roboto', sans-serif;
+}
+#header{
+    background: #2874f0;
+    height:34px;
+    padding:10px;
+}
+.container{
+    width:90%;
+    margin:0 auto;
+}
+.logoblock{width:13%;float:left;}
+.search{width:60%;float:left;}
+.loginblock{width:27%;float:left;}
+input.search{
+    padding: 0 16px;
+    border-radius: 2px 0 0 2px;
+    border:0 none;
+    outline:0 none;
+    font-size:14px;
+    height:36px;
+    width:65%;
+}
+span .fa-search{
+    border:2px solid#fff;
+    border-left:2px solid #f1f3f6;
+    border-radius:0 2px 2px 0;
+    height:31px;
+    cursor:pointer;
+    padding-top: 4px;
+    background-color:#fff;
+    padding:0px 11px 1px 11px;
+    font-size:20px;
+    color:rgb(40, 116, 241);
+    line-height:30px;
+}
+.loginblock a{
+    letter-spacing: 1px;
+    color:#fff;
+    text-decoration: none;
+   /* margin: 10px;*/
+    padding: 10px;
+    line-height: 33px;
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: bolder; 
+}
+
+
