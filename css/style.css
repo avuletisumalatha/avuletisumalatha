@@ -47,5 +47,8 @@ span .fa-search{
     text-transform: capitalize;
     font-weight: bolder; 
 }
+form div{
+    margin:10px 0;
+}
 
 
